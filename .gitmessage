@@ -1,0 +1,19 @@
+# Set up a template that will show up whenever you do git commit:
+
+#  `git config --global commit.template ~/.gitmessage`
+
+# Co-authored-by: Dylan Pee <dylan@zepto.com.au>
+# Co-authored-by: Aathithya <aathithya@zepto.com.au>
+# Co-authored-by: David Barlow <david@madeindata.com>
+# Co-authored-by: Anton Panteleev <panteleev23@gmail.com>
+# Co-authored-by: Zane Keeley <zanekeeley@gmail.com>
+# Co-authored-by: Blake Astley <46544374+astley92@users.noreply.github.com>
+# Co-authored-by: Chris Ixion <chris@chrisixion.com>
+# Co-authored-by: Chris Teague <chris@cteague.com.au>
+# Co-authored-by: Eumir Gaspar <corroded@users.noreply.github.com>
+# Co-authored-by: Michael Milewski <saramic@gmail.com>
+# Co-authored-by: Para O'Kelly <82064422+paraokelly-split@users.noreply.github.com>
+# Co-authored-by: Shanon McQuay <hi@shan.dog>
+# Co-authored-by: Trevor <trev@a07.com.au>
+# Co-authored-by: Wei Zeng <gzzengwei@gmail.com>
+# Co-authored-by: Zubin Henner <9605+zubin@users.noreply.github.com>
