@@ -1,0 +1,20 @@
+[user]
+	name = Helen
+	email = hln.stonehouse@gmail.com
+[alias]
+	st = status
+	graph = log --graph --pretty=format:'%Cred%h%Creset - %C(bold blue)<%an>%Creset%C(yellow)%d%Creset - %Cgreen(%cr)%Creset %s' --abbrev-commit --date=relative
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[url "git://"]
+	insteadOf = https://
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[push]
+	autoSetupRemote = true
+[commit]
+	template = /Users/helen/.gitmessage
